@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "Lionel Messi",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "asd",
+      "gender": "male"
+    },
+    {
+      "id": 1,
+      "name": "CR7",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "asd",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Mbappe",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "asd",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Martinez",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "asd",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Ziyech",
+      "nim": "123456789",
+      "active": true,
+      "email": "user@gmail.com",
+      "address": "asd",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "Bono",
+      "email": "asd",
+      "gender": "asd",
+      "address": "asd",
+      "nim": "bono"
+    },
+    {
+      "id": 7,
+      "name": "morata",
+      "email": "asd",
+      "gender": "asd",
+      "address": "asd"
+    }
+  ]
+}
